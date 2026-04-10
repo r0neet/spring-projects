@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/employ-backend/employ-backend.iml" filepath="$PROJECT_DIR$/employ-backend/employ-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ems(employ management system)-backend.iml" filepath="$PROJECT_DIR$/.idea/ems(employ management system)-backend.iml" />
     </modules>
   </component>
